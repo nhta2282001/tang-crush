@@ -23,8 +23,8 @@ function firstQuestion(){
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
         imageUrl: 'img/lookMe.jpg',
-        imageWidth: 300,
-        imageHeight: 300,
+        imageWidth: 500,
+        imageHeight: 500,
         background: '#fff url("img/iput-bg.jpg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
