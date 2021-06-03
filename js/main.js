@@ -126,6 +126,7 @@ $('#yes').click(function() {
                 onClose: () => {
                     window.location = CONFIG.messLink;
                   }
+    {<iframe width="100%" height="450" src="https://freakxapps.com/demo/me/bounce-ball1/" name="bestgameever" frameborder="0" scrolling="no">Your browser does not support iframes.&gt;&nbsp;}
             })
         }
     })
